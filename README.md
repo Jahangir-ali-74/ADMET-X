@@ -115,4 +115,4 @@ Example request:
 
 ## 📝 License
 
-MIT License © 2025 [Sheik Arshad Ibrahim]
+<u>MIT License</u> © 2025 [Sheik Arshad Ibrahim]
