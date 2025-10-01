@@ -1,7 +1,7 @@
 # 🧪 ADMET Prediction Web App
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18.17-green?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20.15-green?logo=node.js&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A full-stack web application for predicting **ADMET properties** (Absorption, Distribution, Metabolism, Excretion and Toxicity) of molecules using **SMILES input**.
