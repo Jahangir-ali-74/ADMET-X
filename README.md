@@ -115,4 +115,4 @@ Example request:
 
 ## 📝 License
 
-<ins>MIT License</ins> © 2025 [Sheik Arshad Ibrahim]
+This project is licensed under the [MIT License](LICENSE) © 2025 [**Sheik Arshad Ibrahim**](https://github.com/arshadibrahim882)
