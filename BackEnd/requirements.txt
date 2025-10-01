@@ -1,0 +1,14 @@
+# Backend dependencies
+Flask==3.0.3
+flask-cors==5.0.0
+gunicorn==23.0.0
+
+# Chemistry & ML
+#rdkit-pypi==2022.9.5, instead use conda install -c conda-forge rdkit
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# Optional utilities
+requests==2.32.3
+joblib==1.4.2
