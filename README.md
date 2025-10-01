@@ -1,6 +1,7 @@
 # 🧪 ADMET Prediction Web App
 
 A full-stack web application for predicting **ADMET properties** (Absorption, Distribution, Metabolism, Excretion, and Toxicity) of molecules using **SMILES input**.
+
 This project integrates a **React frontend** with a **Flask backend** and provides an interactive, mobile-friendly interface for visualizing molecular properties and market suitability.
 
 ---
