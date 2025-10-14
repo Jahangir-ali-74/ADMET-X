@@ -113,6 +113,16 @@ Example request:
 
 ---
 
+### 👥 Contributors
+| Name                 | GitHub                                     | LinkedIn                                               |
+| ---------------------| ------------------------------------------ | ------------------------------------------------------ |
+| Sheik Arshad Ibrahim | [GitHub](https://github.com/arshadibrahim882) | [LinkedIn](https://www.linkedin.com/in/sheik-arshad-ibrahim/) |
+| Rohith Reddy G K     | [GitHub](https://github.com/RohithReddyGK)  | [LinkedIn](https://www.linkedin.com/in/rohithreddygk/)  |
+| Sayed Jahangir Ali   | [GitHub](https://github.com/Jahangir-ali-74)      |  -  |
+| Thirumurugan M       | [GitHub](https://github.com/thirumuruganmeganath-ops)      |  -     |
+
+---
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE) © 2025 [**Sheik Arshad Ibrahim**](https://github.com/arshadibrahim882)
