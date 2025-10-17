@@ -94,6 +94,59 @@ npm run dev
 
 ---
 
+## 🌐 Frontend(Vercel) Deployment
+
+Follow these steps to deploy your **ADMET Prediction Frontend** using **Vercel**.
+
+### 1. Push Frontend to GitHub
+
+Make sure your frontend folder contains the following files and directories:
+
+```
+frontend/
+├── .env.local
+├── .env.production
+├── vite.config.js
+├── package.json
+└── src/
+```
+
+### 2. Set Environment Variables
+
+In your **`.env.production`** file, add the backend API URL (your Fly.io backend):
+
+```bash
+VITE_BACKEND_URL=https://admet-backend.fly.dev
+```
+
+### 3. Deploy to Vercel
+
+Go to https://vercel.com
+
+Click “New Project” → “Import Git Repository”
+
+Choose your frontend repository
+
+In Project Settings, set the following values:
+
+| Setting                  | Value                                                 |
+| ------------------------ | ----------------------------------------------------- |
+| **Framework Preset**     | `Vite`                                                |
+| **Build Command**        | `npm run build`                                       |
+| **Output Directory**     | `dist`                                                |
+| **Install Command**      | `npm install`                                         |
+| **Environment Variable** | `VITE_BACKEND_URL=https://admet-backend.fly.dev` |
+
+### Deployment Success
+
+Once deployment completes, you’ll receive a live URL such as:
+
+```bash
+https://admet-x.vercel.app
+```
+
+---
+
 ## 📡 API Endpoints
 
 **POST** `/predict` → Takes a SMILES string and returns ADMET prediction JSON.
@@ -116,8 +169,8 @@ Example request:
 ### 👥 Contributors
 | Name                 | GitHub                                     | LinkedIn                                               |
 | ---------------------| ------------------------------------------ | ------------------------------------------------------ |
-| Sheik Arshad Ibrahim | [GitHub](https://github.com/arshadibrahim882) | [LinkedIn](https://www.linkedin.com/in/sheik-arshad-ibrahim/) |
 | Rohith Reddy G K     | [GitHub](https://github.com/RohithReddyGK)  | [LinkedIn](https://www.linkedin.com/in/rohithreddygk/)  |
+| Sheik Arshad Ibrahim | [GitHub](https://github.com/arshadibrahim882) | [LinkedIn](https://www.linkedin.com/in/sheik-arshad-ibrahim/) |
 | Sayed Jahangir Ali   | [GitHub](https://github.com/Jahangir-ali-74)      |  -  |
 | Thirumurugan M       | [GitHub](https://github.com/thirumuruganmeganath-ops)      |  -     |
 
@@ -125,4 +178,5 @@ Example request:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE) © 2025 [**Sheik Arshad Ibrahim**](https://github.com/arshadibrahim882)
+This project is licensed under the [MIT License](./LICENSE) © 2025 (ADMET-X Team)  
+[**Sheik Arshad Ibrahim**](https://github.com/arshadibrahim882) 
