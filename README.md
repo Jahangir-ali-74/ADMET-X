@@ -1,8 +1,22 @@
 # 🧪 ADMET Prediction Web App
 
-![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20.15-green?logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+<div align="center">
+  <!-- Badges -->
+  <p>
+    <a href="https://admet-x.vercel.app/"><img src="https://img.shields.io/badge/Live-Webpage-green" alt="LIVE Website"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python"></a>
+    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18.2.0-blue.svg" alt="React"></a>
+    <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-React-orange.svg" alt="Vite + React"></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-Container-blue.svg" alt="Docker"></a>
+    <a href="https://fly.io/"><img src="https://img.shields.io/badge/Deployment-Fly.io-purple.svg" alt="Fly.io"></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Deployment-Vercel-purple.svg" alt="Vercel"></a>
+    <a href="https://www.rdkit.org/"><img src="https://img.shields.io/badge/RDKit-Chemistry-green.svg" alt="RDKit"></a>
+    <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-Backend-orange.svg" alt="Flask"></a>
+    <a href="https://framer.com/motion/"><img src="https://img.shields.io/badge/FramerMotion-Animation-red.svg" alt="Framer Motion"></a>
+    <a href="https://lottiefiles.com/"><img src="https://img.shields.io/badge/Lottie-Animations-blue.svg" alt="Lottie"></a>
+  </p>
+</div>
 
 A full-stack web application for predicting **ADMET properties** (Absorption, Distribution, Metabolism, Excretion and Toxicity) of molecules using **SMILES input**.
 
