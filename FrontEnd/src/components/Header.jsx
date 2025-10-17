@@ -8,7 +8,7 @@ function Header() {
     <>
       {/* SEO Metadata for Header */}
       <Helmet>
-        <title>ADMET-X | AI-Driven Platform for In-Silico ADMET Prediction</title>
+        <title>ADMET-X</title>
         <meta
           name="description"
           content="AI-powered platform for predicting Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) properties of drug molecules using advanced machine learning and cheminformatics."
