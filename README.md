@@ -193,4 +193,4 @@ Example request:
 ## 📝 License
 
 This project is licensed under the [MIT License](./LICENSE) © 2025 (ADMET-X Team)  
-[**Sheik Arshad Ibrahim**](https://github.com/arshadibrahim882) 
+[**Sayed Jahangir Ali**](https://github.com/Jahangir-ali-74) 
